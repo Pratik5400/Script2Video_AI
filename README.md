@@ -78,21 +78,6 @@ The goal is to integrate multiple Generative AI technologies into one applicatio
 
 </div>
 
-### Application Screenshots
-
-<!-- Add actual screenshots inside docs/screenshots/ -->
-
-| Application Interface | Generated Script |
-|---|---|
-| ![Home](docs/screenshots/home.png) | ![Script](docs/screenshots/script.png) |
-| Home screen | Generated six-scene script |
-
-| Image Generation | Final Video |
-|---|---|
-| ![Images](docs/screenshots/images.png) | ![Video](docs/screenshots/video.png) |
-| Generated scene images | Final video preview |
-
----
 
 ## ⚙️ How It Works
 
