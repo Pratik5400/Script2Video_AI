@@ -1,0 +1,80 @@
+[
+    {
+        "scene_number": 1,
+        "scene_title": "The Dawn of a New Era",
+        "original_visual_description": "A close-up of a human eye reflecting glowing, intricate neural network pathways that branch into a panoramic view of an advanced metropolis at sunrise.",
+        "image_filename": "scene_01.png",
+        "blip_caption": "a glowing digital neural network skyline with sunrise in the background",
+        "cosine_similarity": 0.6842,
+        "heuristic_threshold": 0.4,
+        "verification_status": "Relevant",
+        "manual_review_status": "Pending",
+        "manual_notes": "",
+        "error": null
+    },
+    {
+        "scene_number": 2,
+        "scene_title": "Revolutionizing Medicine",
+        "original_visual_description": "A compassionate doctor wearing holographic glasses interacts with a floating three-dimensional digital DNA strand inside a modern hospital laboratory.",
+        "image_filename": "scene_02.png",
+        "blip_caption": "a healthcare scientist looking at a three dimensional holographic dna strand in a laboratory",
+        "cosine_similarity": 0.7125,
+        "heuristic_threshold": 0.4,
+        "verification_status": "Relevant",
+        "manual_review_status": "Pending",
+        "manual_notes": "",
+        "error": null
+    },
+    {
+        "scene_number": 3,
+        "scene_title": "Autonomous and Sustainable Living",
+        "original_visual_description": "Sleek magnetic levitation transit glides silently through a lush, solarpunk city filled with vertical forest skyscrapers and solar crystal bridges.",
+        "image_filename": "scene_03.png",
+        "blip_caption": "a futuristic city with vertical gardens and monorail transit system under a blue sky",
+        "cosine_similarity": 0.6518,
+        "heuristic_threshold": 0.4,
+        "verification_status": "Relevant",
+        "manual_review_status": "Pending",
+        "manual_notes": "",
+        "error": null
+    },
+    {
+        "scene_number": 4,
+        "scene_title": "The Evolution of Creativity",
+        "original_visual_description": "An artist in a futuristic studio gestures into the air, synthesizing surreal kaleidoscopic visual landscapes composed of light and sound.",
+        "image_filename": "scene_04.png",
+        "blip_caption": "an artist using glowing light brushes and geometric patterns in a dark digital studio",
+        "cosine_similarity": 0.5934,
+        "heuristic_threshold": 0.4,
+        "verification_status": "Relevant",
+        "manual_review_status": "Pending",
+        "manual_notes": "",
+        "error": null
+    },
+    {
+        "scene_number": 5,
+        "scene_title": "The Ethical Frontier",
+        "original_visual_description": "Two translucent glowing hands, one mechanical and one biological, gently converge over a core of radiant blue light symbolizing balance and ethics.",
+        "image_filename": "scene_05.png",
+        "blip_caption": "a robotic hand and a human hand touching with blue light between their fingers",
+        "cosine_similarity": 0.6279,
+        "heuristic_threshold": 0.4,
+        "verification_status": "Relevant",
+        "manual_review_status": "Pending",
+        "manual_notes": "",
+        "error": null
+    },
+    {
+        "scene_number": 6,
+        "scene_title": "The Symbiotic Horizon",
+        "original_visual_description": "A diverse group of explorers look outward from an orbital station viewing deck toward deep space, alongside friendly glowing robotic companions.",
+        "image_filename": "scene_06.png",
+        "blip_caption": "astronauts and robots gazing out of a spaceship window toward a colorful nebula",
+        "cosine_similarity": 0.741,
+        "heuristic_threshold": 0.4,
+        "verification_status": "Relevant",
+        "manual_review_status": "Pending",
+        "manual_notes": "",
+        "error": null
+    }
+]

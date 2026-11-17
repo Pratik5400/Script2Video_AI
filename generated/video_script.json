@@ -1,0 +1,55 @@
+{
+    "video_title": "Beyond Tomorrow: The Future of Artificial Intelligence",
+    "topic": "The Future of Artificial Intelligence",
+    "total_duration": 45,
+    "scenes": [
+        {
+            "scene_number": 1,
+            "scene_title": "The Dawn of Next-Gen Intelligence",
+            "narration": "Artificial intelligence is no longer just on our screens. It is actively stepping into the fabric of our physical world.",
+            "visual_description": "A sweeping panoramic shot moving from glowing data streams inside a supercomputer to a futuristic city bathed in soft morning light.",
+            "image_prompt": "Cinematic wide shot of ethereal blue and golden holographic neural network threads blending into the skyline of an advanced sustainable metropolis at dawn, hyper-detailed, photorealistic, 8k.",
+            "duration_seconds": 7
+        },
+        {
+            "scene_number": 2,
+            "scene_title": "Ambient Living and Companionship",
+            "narration": "Soon, ambient intelligence will anticipate our daily needs, turning homes and workplaces into responsive, intuitive ecosystems.",
+            "visual_description": "A modern minimalist living space where subtle light rings and translucent digital overlays intuitively adapt to a person walking through.",
+            "image_prompt": "Cinematic medium shot of an elegant modern smart home interior with subtle glowing holographic UI interfaces interacting harmoniously with a human resident, warm lighting, cinematic depth of field.",
+            "duration_seconds": 8
+        },
+        {
+            "scene_number": 3,
+            "scene_title": "Curing the Incurable",
+            "narration": "In medicine, generative models are designing targeted treatments in seconds, unlocking cures once thought impossible.",
+            "visual_description": "A scientist peering into a high-tech microscopic holographic field displaying complex, self-folding protein structures glowing in vibrant bioluminescent tones.",
+            "image_prompt": "Cinematic close-up of a female scientist in futuristic laboratory observing a glowing bioluminescent 3D molecular protein helix suspended in mid-air, volumetric lighting, photorealistic.",
+            "duration_seconds": 7
+        },
+        {
+            "scene_number": 4,
+            "scene_title": "Healing the Planet",
+            "narration": "Beyond human health, intelligent networks are optimizing global clean energy grids and actively monitoring wildlife ecosystems to reverse ecological damage.",
+            "visual_description": "Drone camera gliding over a vast renewable energy farm interspersed with lush reforested greenery, with faint digital pulse lines tracking ecosystem vitality.",
+            "image_prompt": "Cinematic aerial view of futuristic solar arrays and wind turbines integrated harmoniously into a vibrant, flourishing green forest with glowing data overlays, golden hour lighting.",
+            "duration_seconds": 8
+        },
+        {
+            "scene_number": 5,
+            "scene_title": "Expanding Human Potential",
+            "narration": "By handling raw computation and complex problem-solving, AI empowers us to explore deeper creative frontiers and unlock cosmic mysteries.",
+            "visual_description": "An artist and engineer collaborating alongside a sleek robotic arm assembling intricate astronomical telescope components under a starlit observatory dome.",
+            "image_prompt": "Cinematic shot of a human creator working side-by-side with an elegant robotic collaborator inside a deep-space observatory dome pointing towards a glittering nebula, moody rim lighting.",
+            "duration_seconds": 7
+        },
+        {
+            "scene_number": 6,
+            "scene_title": "A Shared Tomorrow",
+            "narration": "The future of AI is not about replacing humanity, but elevating our potential to build a brighter, more connected universe.",
+            "visual_description": "A diverse group of people standing atop an architectural viewpoint looking out toward a radiant, peaceful horizon filled with green architecture and gentle flying transit vehicles.",
+            "image_prompt": "Cinematic wide shot of diverse people looking out towards a hopeful utopian cityscape bathed in warm sunset glow, lens flare, inspirational atmosphere, 8k resolution.",
+            "duration_seconds": 8
+        }
+    ]
+}

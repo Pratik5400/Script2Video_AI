@@ -1,0 +1,44 @@
+[
+    {
+        "scene_number": 1,
+        "image_filename": "scene_01.png",
+        "blip_caption": "a glowing digital neural network skyline with sunrise in the background",
+        "status": "Success",
+        "error": null
+    },
+    {
+        "scene_number": 2,
+        "image_filename": "scene_02.png",
+        "blip_caption": "a healthcare scientist looking at a three dimensional holographic dna strand in a laboratory",
+        "status": "Success",
+        "error": null
+    },
+    {
+        "scene_number": 3,
+        "image_filename": "scene_03.png",
+        "blip_caption": "a futuristic city with vertical gardens and monorail transit system under a blue sky",
+        "status": "Success",
+        "error": null
+    },
+    {
+        "scene_number": 4,
+        "image_filename": "scene_04.png",
+        "blip_caption": "an artist using glowing light brushes and geometric patterns in a dark digital studio",
+        "status": "Success",
+        "error": null
+    },
+    {
+        "scene_number": 5,
+        "image_filename": "scene_05.png",
+        "blip_caption": "a robotic hand and a human hand touching with blue light between their fingers",
+        "status": "Success",
+        "error": null
+    },
+    {
+        "scene_number": 6,
+        "image_filename": "scene_06.png",
+        "blip_caption": "astronauts and robots gazing out of a spaceship window toward a colorful nebula",
+        "status": "Success",
+        "error": null
+    }
+]

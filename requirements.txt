@@ -1,0 +1,11 @@
+# P36: Script2Video AI - Local PyCharm & Streamlit Dependencies (Python 3.12)
+streamlit>=1.30.0
+google-genai>=0.1.0
+python-dotenv>=1.0.0
+pillow>=10.0.0
+requests>=2.31.0
+numpy>=1.26.0
+
+# Note: GPU-heavy packages for Unit 3 (diffusers, transformers, accelerate,
+# sentence-transformers, torch) are installed and executed in Google Colab:
+# notebooks/P36_U3_Image_Generation_BLIP.ipynb

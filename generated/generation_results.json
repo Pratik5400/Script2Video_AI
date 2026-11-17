@@ -1,0 +1,62 @@
+[
+    {
+        "scene_number": 1,
+        "scene_title": "The Dawn of a New Era",
+        "image_filename": "scene_01.png",
+        "image_path": "generated\\images\\scene_01.png",
+        "prompt_used": "Cinematic wide shot of glowing digital neural networks overlaying a futuristic skyline at dawn, photorealistic, volumetric golden morning lighting, 8k resolution, cinematic atmosphere.",
+        "seed": 43,
+        "status": "Generated",
+        "error": null
+    },
+    {
+        "scene_number": 2,
+        "scene_title": "Revolutionizing Medicine",
+        "image_filename": "scene_02.png",
+        "image_path": "generated\\images\\scene_02.png",
+        "prompt_used": "Cinematic medium shot of a healthcare scientist in a high-tech lab interacting with a translucent, glowing blue holographic DNA helix, clean aesthetic, soft ambient lighting, cinematic depth of field.",
+        "seed": 44,
+        "status": "Generated",
+        "error": null
+    },
+    {
+        "scene_number": 3,
+        "scene_title": "Autonomous and Sustainable Living",
+        "image_filename": "scene_03.png",
+        "image_path": "generated\\images\\scene_03.png",
+        "prompt_used": "Cinematic shot of a solarpunk futuristic city with vertical gardens, sleek maglev trains on transparent tracks, glowing energy conduits, crystal clear skies, ultra-detailed architectural design.",
+        "seed": 45,
+        "status": "Generated",
+        "error": null
+    },
+    {
+        "scene_number": 4,
+        "scene_title": "The Evolution of Creativity",
+        "image_filename": "scene_04.png",
+        "image_path": "generated\\images\\scene_04.png",
+        "prompt_used": "Cinematic dramatic lighting shot of a diverse artist conducting glowing holographic paint strokes and fractal light waves in a modern darkened studio, artistic masterpiece, vivid colors.",
+        "seed": 46,
+        "status": "Generated",
+        "error": null
+    },
+    {
+        "scene_number": 5,
+        "scene_title": "The Ethical Frontier",
+        "image_filename": "scene_05.png",
+        "image_path": "generated\\images\\scene_05.png",
+        "prompt_used": "Cinematic close-up of a robotic hand and a human hand gently touching, glowing crystalline light pulsating between fingertips, dramatic dark studio background, profound emotional lighting.",
+        "seed": 47,
+        "status": "Generated",
+        "error": null
+    },
+    {
+        "scene_number": 6,
+        "scene_title": "The Symbiotic Horizon",
+        "image_filename": "scene_06.png",
+        "image_path": "generated\\images\\scene_06.png",
+        "prompt_used": "Cinematic wide establishing shot of human astronauts and gentle sleek companion robots standing side by side looking at a vibrant colorful nebula through a giant spaceship window, epic sense of wonder.",
+        "seed": 48,
+        "status": "Generated",
+        "error": null
+    }
+]
