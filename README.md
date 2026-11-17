@@ -1,6 +1,8 @@
 
 <div align="center">
 
+<img src="assets/logo.png" alt="MIT-ADT University logo" width="140"/>
+
 # MIT ART, DESIGN AND TECHNOLOGY UNIVERSITY
 **MIT SCHOOL OF COMPUTING, PUNE**  
 *Department of Computer Science and Engineering*
